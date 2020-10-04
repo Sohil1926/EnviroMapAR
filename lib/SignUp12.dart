@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import './SignUp13.dart';
+import './SignUp16.dart';
 import 'package:adobe_xd/page_link.dart';
 
 class SignUp12 extends StatelessWidget {
@@ -754,7 +754,7 @@ class SignUp12 extends StatelessWidget {
                   transition: LinkTransition.Fade,
                   ease: Curves.easeIn,
                   duration: 0.2,
-                  pageBuilder: () => SignUp13(),
+                  pageBuilder: () => SignUp16(),
                 ),
               ],
               child: Container(

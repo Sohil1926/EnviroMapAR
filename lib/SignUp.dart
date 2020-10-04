@@ -112,11 +112,7 @@ class SignUp extends StatelessWidget {
                                 ),
                               ),
                               Pinned.fromSize(
-<<<<<<< Updated upstream
-                                bounds: Rect.fromLTWH(24.0, 19.0, 42.0, 15.0),
-=======
                                 bounds: Rect.fromLTWH(24.0, 15.0, 41.0, 20.0),
->>>>>>> Stashed changes
                                 size: Size(327.0, 52.0),
                                 pinLeft: true,
                                 fixedWidth: true,
@@ -214,11 +210,7 @@ class SignUp extends StatelessWidget {
                           ),
                         ),
                         Pinned.fromSize(
-<<<<<<< Updated upstream
-                          bounds: Rect.fromLTWH(90.0, 10.0, 45.0, 12.0),
-=======
                           bounds: Rect.fromLTWH(90.0, 7.0, 44.0, 16.0),
->>>>>>> Stashed changes
                           size: Size(375.0, 160.0),
                           pinTop: true,
                           fixedWidth: true,
@@ -236,11 +228,7 @@ class SignUp extends StatelessWidget {
                           ),
                         ),
                         Pinned.fromSize(
-<<<<<<< Updated upstream
-                          bounds: Rect.fromLTWH(197.0, 10.0, 47.0, 12.0),
-=======
                           bounds: Rect.fromLTWH(197.0, 7.0, 47.0, 16.0),
->>>>>>> Stashed changes
                           size: Size(375.0, 160.0),
                           pinTop: true,
                           fixedWidth: true,

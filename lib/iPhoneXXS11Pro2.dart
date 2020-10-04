@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import './iPhoneXXS11Pro6.dart';
 import 'package:adobe_xd/page_link.dart';
-import './Dashboard.dart';
+import './Dashboard1.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class iPhoneXXS11Pro2 extends StatelessWidget {
@@ -762,7 +762,7 @@ class iPhoneXXS11Pro2 extends StatelessWidget {
                     transition: LinkTransition.Fade,
                     ease: Curves.linear,
                     duration: 0.2,
-                    pageBuilder: () => Dashboard(),
+                    pageBuilder: () => Dashboard1(),
                   ),
                 ],
                 child: Container(

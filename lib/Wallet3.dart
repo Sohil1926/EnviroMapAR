@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
-import './Wallet1.dart';
+import './Wallet2.dart';
 import 'package:adobe_xd/page_link.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -1361,7 +1361,7 @@ class Wallet3 extends StatelessWidget {
                     transition: LinkTransition.Fade,
                     ease: Curves.linear,
                     duration: 0.2,
-                    pageBuilder: () => Wallet1(),
+                    pageBuilder: () => Wallet2(),
                   ),
                 ],
                 child: Container(
