@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853310988601",
+    "firebase_url": "https://enviromapar.firebaseio.com",
+    "project_id": "enviromapar",
+    "storage_bucket": "enviromapar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853310988601:android:37af5e8800a7380999c8e8",
+        "android_client_info": {
+          "package_name": "com.hackanon.enviromapar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853310988601-ev83n734efutamm6t5m40pisr3p8077b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDKCz2ZJlBIH5CU9iNeRc40awT9JooIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853310988601-ev83n734efutamm6t5m40pisr3p8077b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
